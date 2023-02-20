@@ -4,3 +4,5 @@
 
 /.vs
 /CSA-FS23/.vs
+**/bin
+**/obj
