@@ -1,0 +1,15 @@
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\bin\Debug\net7.0\Uebung01-HelloWorld.exe
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\bin\Debug\net7.0\Uebung01-HelloWorld.deps.json
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\bin\Debug\net7.0\Uebung01-HelloWorld.runtimeconfig.json
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\bin\Debug\net7.0\Uebung01-HelloWorld.dll
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\bin\Debug\net7.0\Uebung01-HelloWorld.pdb
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\Uebung01-HelloWorld.csproj.AssemblyReference.cache
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\Uebung01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\Uebung01-HelloWorld.AssemblyInfoInputs.cache
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\Uebung01-HelloWorld.AssemblyInfo.cs
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\Uebung01-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\Uebung01-HelloWorld.dll
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\refint\Uebung01-HelloWorld.dll
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\Uebung01-HelloWorld.pdb
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\Uebung01-HelloWorld.genruntimeconfig.cache
+C:\Users\micha\code\csa\CSA-FS23\Uebung01-HelloWorld\obj\Debug\net7.0\ref\Uebung01-HelloWorld.dll
